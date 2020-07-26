@@ -1,0 +1,40 @@
+tag(꼬리표)
+<!doctype html>	이 문서는 html임을 알림(항상 맨위에 표기)
+<html></html>	전체묶기			100%
+<head></head>	본문설명 묶기		100%
+<body></body>	본문묶기			98.8%
+
+<title></title>	본문의 제목을 설명		97.1%
+<meta>		본문의 저장방식 설명	95.4%
+<div>	93.1%
+<a href="링크"></a>		a=anchor(닷) 정박한다는 의미(링크)	92.6%
+<script>	90.4%
+<link>	89.5%
+<img>	88.9%
+<span>	82.7%
+<p>줄바꿈</p>			p=paragraph(단락)	82.3%
+<li>목차</li>			li=list(목차)	77.7%
+<ul><li>목차내용 그룹</li></ul>	ul=Unordered List	ul은 li의 부모태그	77.6%
+<ol><li>그룹내 넘버링</li></ol>	ol=Ordered List	ol은 li의 부모태그
+<style>	76.2%
+<br>줄바꿈	69.7%
+<h1>제목</h1>			h=heading(제목)	h1~6까지만	59.4%
+<input>	54.9%
+<form>	50.8%
+<nav>	48%
+<header>	46.1%
+<footer>	46%
+<iframe>	44.7%
+<strong>진한글씨</strong>		44.2%
+<button>	38.8%
+<i>	35.3%
+<u>밑줄</u>			u=underline
+
+
+Attribute(속성)		태그 안에 들어감
+src="링크"		src=source(소스)
+width="n%"		폭, 넓이, 크기
+charset="utf-8"		문자규칙
+href="링크"		링크로 이동	href=hypertext reference(비순차적인 검색을 제공하는 텍스트 + 참조)
+targer="_blank"		<<새탭으로 열기
+title="내용"		툴팁
